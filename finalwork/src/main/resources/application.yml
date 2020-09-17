@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://120.78.161.225:3306/train?characterEncoding=utf-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+server:
+  port: 8181
