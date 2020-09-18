@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author tanchenxi
- * @create 2020-06-26 8:33
+ * @author hui
+ * @create 2020-09-16 8:33
  */
 @RestController
 @RequestMapping("/user")
