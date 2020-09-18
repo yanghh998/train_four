@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author tanchenxi
+ * @author hui
  * @create 2020-09-17 21:47
  */
 @RestController
